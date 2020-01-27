@@ -1,0 +1,11 @@
+C:\Users\melker.linde\Documents\GitHub\E-prov2020\SuperHeroAcademy\SuperHeroAcademy\bin\Debug\netcoreapp2.1\SuperHeroAcademy.deps.json
+C:\Users\melker.linde\Documents\GitHub\E-prov2020\SuperHeroAcademy\SuperHeroAcademy\bin\Debug\netcoreapp2.1\SuperHeroAcademy.runtimeconfig.json
+C:\Users\melker.linde\Documents\GitHub\E-prov2020\SuperHeroAcademy\SuperHeroAcademy\bin\Debug\netcoreapp2.1\SuperHeroAcademy.runtimeconfig.dev.json
+C:\Users\melker.linde\Documents\GitHub\E-prov2020\SuperHeroAcademy\SuperHeroAcademy\bin\Debug\netcoreapp2.1\SuperHeroAcademy.dll
+C:\Users\melker.linde\Documents\GitHub\E-prov2020\SuperHeroAcademy\SuperHeroAcademy\bin\Debug\netcoreapp2.1\SuperHeroAcademy.pdb
+C:\Users\melker.linde\Documents\GitHub\E-prov2020\SuperHeroAcademy\SuperHeroAcademy\obj\Debug\netcoreapp2.1\SuperHeroAcademy.csprojAssemblyReference.cache
+C:\Users\melker.linde\Documents\GitHub\E-prov2020\SuperHeroAcademy\SuperHeroAcademy\obj\Debug\netcoreapp2.1\SuperHeroAcademy.csproj.CoreCompileInputs.cache
+C:\Users\melker.linde\Documents\GitHub\E-prov2020\SuperHeroAcademy\SuperHeroAcademy\obj\Debug\netcoreapp2.1\SuperHeroAcademy.AssemblyInfoInputs.cache
+C:\Users\melker.linde\Documents\GitHub\E-prov2020\SuperHeroAcademy\SuperHeroAcademy\obj\Debug\netcoreapp2.1\SuperHeroAcademy.AssemblyInfo.cs
+C:\Users\melker.linde\Documents\GitHub\E-prov2020\SuperHeroAcademy\SuperHeroAcademy\obj\Debug\netcoreapp2.1\SuperHeroAcademy.dll
+C:\Users\melker.linde\Documents\GitHub\E-prov2020\SuperHeroAcademy\SuperHeroAcademy\obj\Debug\netcoreapp2.1\SuperHeroAcademy.pdb
